@@ -1,4 +1,4 @@
-# Todo appp
+# Todo app
  - Project made using 
     - [ReactJs](https://create-react-app.dev/),
     - [Material-tailwind](https://www.material-tailwind.com/docs/react/installation),
