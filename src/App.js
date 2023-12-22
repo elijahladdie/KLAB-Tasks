@@ -41,7 +41,7 @@ useEffect(()=>{
             <hr className='w-2 my-6 transparent' />
             <ListItems items={items} completed={true} setItems={setItems} />
           </div>
-          : <Typography variant='h3' color='white'>😊 It's Good to have scheduled day start now ↖️</Typography>}
+          : <Typography variant='h1' color='white' className='h-96 flex items-center lg-md' >😊 It's Good to have scheduled day start now ⌛</Typography>}
       </div>
     </div>
   );
